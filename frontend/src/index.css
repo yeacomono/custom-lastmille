@@ -1,0 +1,17 @@
+@import './assets/Inter/inter.css';
+@import 'frappe-ui/src/style.css';
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+.fill-width {
+    flex: 1;
+  
+}
+.flex-flow{
+    flex-flow: row wrap;
+}
+.bwhite{
+    background-color: white;
+}

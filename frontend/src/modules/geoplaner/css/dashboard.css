@@ -1,0 +1,22 @@
+#mapa .leaflet-div-icon {
+    width:0;
+    height:0;
+    border: 0;
+    padding: 0;
+}
+
+#mapa .leaflet-div-icon b {
+    display:inline-block;
+    padding: 3px;
+    border: none;
+    text-align: center;
+    background:transparent;
+    transform:translate(-50%, -50%);
+    top: 11px;
+    position: relative;
+    width: 200px;
+}
+.leaflet-marker-icon{
+    border-radius: 20px;
+    border: solid 2px #1d83cf !important;
+}
